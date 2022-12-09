@@ -1,0 +1,20 @@
+    Problem med hängagubbe
+
+Inmatning av ett ord eller slumpmässigt.
+    Jämför inmatningsordet med SAOC ifall det är ett riktigt ord.
+        Ifall det ej är ett riktigt ord, be om ett nytt.
+
+Meddelande med text + ("_" = längden av ordet). System.out.println("yadda yadda " + "_"*ord.Length)
+
+Inmatning av en bokstav.
+    Samma bokstav får ej gissas på.
+        Ifall samma bokstav gissas på, be om en ny.
+
+Checka om bokstaven är med i ordet.
+    Om inte, byt ut "_" med bokstavens plats i ordet.
+        Annars, sätt ditt ett streck. (Int) streck ++;
+
+Checka om antalet felaktiga gissningar < 11.
+    Om antalet felaktiga gissningar >= 11, meddelande "du förlorade. Ordet var " + ord
+
+
