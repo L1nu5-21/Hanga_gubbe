@@ -6,6 +6,5 @@ public class Hanga_gubbe {
         Scanner in = new Scanner(System.in);
         String gubbe = in.next();
 
-
     }
 }
