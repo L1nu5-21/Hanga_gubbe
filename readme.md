@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Test drive.
 
 ___
@@ -29,4 +29,4 @@ Quick, get the banana!
 ___
 
 POTASSIUM!
->>>>>>> origin/master
+
