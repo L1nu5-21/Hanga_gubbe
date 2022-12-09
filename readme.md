@@ -1,4 +1,3 @@
-
 Test drive.
 
 ___
@@ -23,10 +22,5 @@ ___
 Mission successful!
 
 ___
-=======
-Quick, get the banana!
 
-___
-
-POTASSIUM!
 
